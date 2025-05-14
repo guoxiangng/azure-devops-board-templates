@@ -3,6 +3,6 @@ Templates for Populating Azure Devops Boards
 
 Command to run the powershell scripts in this repo: (You will need your Azure PersonalAccessToken)
 ```
-.\simple-azure-devops-demo.ps1 -OrganizationName "YourOrgName" -ProjectName "YourProjectName" -PersonalAccessToken "YourPAT"
+.\aws-infra-board-medium-article-demo.ps1 -OrganizationName "YourOrgName" -ProjectName "YourProjectName" -PersonalAccessToken "YourPAT"
 
 
